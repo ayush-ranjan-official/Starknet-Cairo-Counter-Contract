@@ -1,6 +1,7 @@
-# Starknet's Counter contact
+# Starknet's Counter contract
 
 Deployed Link: https://sepolia.starkscan.co/contract/0x076d17f14e01c971f70cacf295644488dfe8aef6a7a62fba8f613732a027cbfb#read-write-contract-sub-read <br />
+<br />
 Address: 0x76d17f14e01c971f70cacf295644488dfe8aef6a7a62fba8f613732a027cbfb
 
 ## Read Functions:
